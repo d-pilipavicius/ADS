@@ -3,7 +3,7 @@
 ## Declaration of a Stack type variable
 
 ### Stack *_stackName;
-    + It is important to note that the Stack data type variable must be declared as a pointer (Stack*).
+    - It is important to note that the Stack data type variable must be declared as a pointer (Stack*).
 
 ## Defined codes
 
